@@ -1,10 +1,10 @@
 # Aplicacion consumo de la api lista de usuarios
-  ##clone el repositorio en su maquina local
-    -con git instalado: abra su cmd, powershell, gitbash alguna de los 3 , clone el proyecto con ( git clone [ssh instruction])
-  ##Corra el proyecto en su maquina local
-    -en la terminal de visual studio o los 3 mencionados anteriores ejecute (npm start) para correr el proyecto
-  ##ejecute pruebas unitarias
-    -en la terminal ejecute (npm test)
+##clone el repositorio en su maquina local
+-con git instalado: abra su cmd, powershell, gitbash alguna de los 3 , clone el proyecto con ( git clone [ssh instruction])
+##Corra el proyecto en su maquina local
+-en la terminal de visual studio o los 3 mencionados anteriores ejecute (npm start) para correr el proyecto
+##ejecute pruebas unitarias
+-en la terminal ejecute (npm test)
 
 #Como funciona el codigo
   Se usa el componente Suspence (para no forzar renderizado del proyecto al momento de realizar la consulta a la api)
