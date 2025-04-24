@@ -36,3 +36,14 @@
     transform: rotate(360deg);
   }
 }
+
+.principal_container{
+  width: 70%;
+  margin: 20px auto;
+}
+
+.principal_title{
+  text-align: center;
+  color: grey;
+  padding: 20px;
+}
